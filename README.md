@@ -5,8 +5,10 @@ Errors that may occur are:
 - Error with physical device [ Endeavor that your usb debugging is turned on
 - Java jdk error [If using gradle 8.1, start with java jdk17 to avoid errors then further upgrade as other versions are released, check jdk documentation
 - Note the C++ file is used with firebase esp8266 & ESP32 library version 4.0
+  
 A new Flutter roject.
- 
+ ![Uploading Image.jpg…]()
+
 
 ## Getting Started
 
