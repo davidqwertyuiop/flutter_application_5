@@ -4,10 +4,9 @@ Gradle error [Upgrade to the latest version at that time or use version 8.1 whic
 Null safety Error [ You can downgrade your environment sdk version to 2.19 or update the code without the null safety feature
 Error with physical device [ Endeavor that your usb debugging is turned on
 Java jdk error [If using gradle 8.1, start with java jdk17 to avoid errors then further upgrade as other versions are released, check jdk documentation
-A new Flutter project.
-![Uploading WhatsApp Image 2024-05-18 at 12.26.21_8652652c.jpg…]()
-
-![Uploading WhatsApp Image 2024-05-18 at 12.25.51_a587ac55.jpg…]()
+Note the C++ file is used with firebase esp8266 & ESP32 library version 4.0
+A new Flutter roject.
+ 
 
 ## Getting Started
 
